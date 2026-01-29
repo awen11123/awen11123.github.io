@@ -7,30 +7,27 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+locale                   : "zh-CN"
+site_theme               : "default"
+title                    : "张浩文 - 中国科学院大学研究生"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "张浩文"
+description              : &description "中国科学院大学研究生个人学术主页"
+url                      : https://academicpages.github.io
+baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# 站点作者信息
 author:
-  # Biographic information
+  # 基本信息
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "张浩文"
+  pronouns         : # 可添加如："他/他"
+  bio              : "中国科学院大学计算机科学与技术研究生，研究方向包括人工智能、机器学习和数据科学"
+  location         : "北京，中国"
+  employer         : "中国科学院大学"
+  uri              : # 可添加个人网站URL
+  email            : "zhanghaowen@example.org" # 请替换为您的真实邮箱
 
   # Academic websites
   academia         : # URL
