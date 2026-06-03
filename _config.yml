@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "张浩文 - 中国科学院大学研究生"
+title                    : "张浩文 - 中国科学院大学"
 title_separator          : "-"
 name                     : &name "张浩文"
-description              : &description "中国科学院大学研究生个人学术主页"
-url                      : https://academicpages.github.io
+description              : &description "中国科学院大学计算机技术研究生个人主页"
+url                      : https://awen11123.github.io
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+repository               : "awen11123/awen11123.github.io"
 
 # 站点作者信息
 author:
@@ -23,11 +23,11 @@ author:
   avatar           : "profile.png"
   name             : "张浩文"
   pronouns         : # 可添加如："他/他"
-  bio              : "中国科学院大学计算机科学与技术研究生，研究方向包括人工智能、机器学习和数据科学"
+  bio              : "yeah，i'm ok"
   location         : "北京，中国"
   employer         : "中国科学院大学"
   uri              : # 可添加个人网站URL
-  email            : "zhanghaowen@example.org" # 请替换为您的真实邮箱
+  email            : "444014092@qq.com"
 
   # Academic websites
   academia         : # URL
@@ -35,10 +35,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "awen11123"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # URL
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -218,16 +218,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  posts:
     output: true
     permalink: /:collection/:path/
 
@@ -252,41 +243,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
