@@ -3,20 +3,87 @@ layout: archive
 title: "项目"
 permalink: /projects/
 author_profile: true
+classes: wide
 ---
 
-## 🔨 开源贡献
+<div class="projects-intro" style="margin-bottom: 2rem;">
+  <p style="font-size: 1.1rem; color: #555;">
+    以下是我参与和贡献的项目，涵盖后端开发、Bug 修复和工具探索。
+  </p>
+</div>
 
-- **[business-ai-agent](https://github.com/mohitkumhar/business-ai-agent)** — 企业 AI Agent 平台
-  - [PR #756](https://github.com/mohitkumhar/business-ai-agent/pull/756)：修复 `api_top_products` 排序逻辑，改为按商业价值而非库存数量排名
-  - [PR #86](https://github.com/mohitkumhar/business-ai-agent/issues/86)：修复 `api_health_scores` 返回重复标签的问题，改为按日期展示健康评分历史
+<div class="project-cards">
 
-## 🛠 工具使用
+  <!-- 项目 1 -->
+  <div class="project-card" style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); transition: box-shadow 0.2s;">
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;">
+      <h3 style="margin: 0;">
+        <a href="https://github.com/mohitkumhar/business-ai-agent" target="_blank" style="text-decoration: none;">
+          🏢 business-ai-agent
+        </a>
+      </h3>
+      <div>
+        <span style="background: #3572a5; color: #fff; padding: 2px 10px; border-radius: 20px; font-size: 0.8rem;">Python</span>
+        <span style="background: #d73a49; color: #fff; padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; margin-left: 4px;">Bug Fix</span>
+      </div>
+    </div>
+    <p style="color: #586069; margin: 0.8rem 0 0.5rem;">
+      企业 AI Agent 平台，提供仪表盘、数据分析、健康评分等功能。
+    </p>
+    <div style="display: flex; align-items: center; gap: 1rem; font-size: 0.85rem; color: #888;">
+      <span>⭐ 52 stars</span>
+      <span>🔀 92 forks</span>
+    </div>
+    <div style="margin-top: 1rem; border-top: 1px solid #eee; padding-top: 0.8rem;">
+      <details>
+        <summary style="cursor: pointer; font-weight: 600; color: #0366d6;">📋 我的贡献 (2 PRs)</summary>
+        <ul style="margin-top: 0.5rem; padding-left: 1.2rem;">
+          <li style="margin-bottom: 0.5rem;">
+            <a href="https://github.com/mohitkumhar/business-ai-agent/pull/756" target="_blank"><strong>PR #756</strong></a>
+            — 修复 <code>api_top_products</code> 排序逻辑，改为按商业价值（利润×库存）排序
+            <span style="background: #28a745; color: #fff; padding: 1px 6px; border-radius: 10px; font-size: 0.7rem;">merged</span>
+          </li>
+          <li>
+            <a href="https://github.com/mohitkumhar/business-ai-agent/pull/86" target="_blank"><strong>PR #86</strong></a>
+            — 修复 <code>api_health_scores</code> 重复标签，改为按日期展示健康评分历史
+            <span style="background: #28a745; color: #fff; padding: 1px 6px; border-radius: 10px; font-size: 0.7rem;">open</span>
+          </li>
+        </ul>
+      </details>
+    </div>
+  </div>
 
-- **[OpenMeta CLI](https://github.com/NianJiuZst/openmeta-cli)** — 开源贡献自治 Agent，帮助发现和评估 GitHub 上的贡献机会
+  <!-- 项目 2 -->
+  <div class="project-card" style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem;">
+      <h3 style="margin: 0;">
+        <a href="https://github.com/awen11123/awen11123.github.io" target="_blank" style="text-decoration: none;">
+          🌐 个人主页
+        </a>
+      </h3>
+      <div>
+        <span style="background: #c6538c; color: #fff; padding: 2px 10px; border-radius: 20px; font-size: 0.8rem;">SCSS</span>
+        <span style="background: #e34c26; color: #fff; padding: 2px 10px; border-radius: 20px; font-size: 0.8rem; margin-left: 4px;">HTML</span>
+      </div>
+    </div>
+    <p style="color: #586069; margin: 0.8rem 0 0.5rem;">
+      基于 Jekyll + GitHub Pages 搭建的个人主页，自定义主题和内容结构。
+    </p>
+    <div style="display: flex; align-items: center; gap: 1rem; font-size: 0.85rem; color: #888;">
+      <span>🔗 <a href="https://awen11123.github.io" target="_blank">awen11123.github.io</a></span>
+    </div>
+  </div>
 
-## 📦 更多项目
+</div>
 
-更多项目请访问我的 GitHub 主页：
+<div style="margin-top: 2rem; padding: 1rem; background: #f6f8fa; border-radius: 8px; text-align: center;">
+  <p style="margin: 0; color: #586069;">
+    更多项目请访问我的 GitHub：<a href="https://github.com/awen11123" target="_blank">github.com/awen11123</a>
+  </p>
+</div>
 
-👉 [github.com/awen11123](https://github.com/awen11123)
+<style>
+.project-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12) !important;
+}
+</style>
