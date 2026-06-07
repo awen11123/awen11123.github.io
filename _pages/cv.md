@@ -42,9 +42,6 @@ _最近更新：2026-06-07_
   - [PR #756](https://github.com/mohitkumhar/business-ai-agent/pull/756)：Fix: Rank top products by business value instead of stock count in api_top_products
   - [PR #758](https://github.com/mohitkumhar/business-ai-agent/pull/758)：Fix: Return health score history with date labels instead of duplicat…
 
-- **[Zbl1007/Creapiece](https://github.com/Zbl1007/Creapiece)** —— (无描述)
-  - [PR #2](https://github.com/Zbl1007/Creapiece/pull/2)：fix: code quality improvements across backend and Docker config
-
 - **[mohitkumhar/450-dsa](https://github.com/mohitkumhar/450-dsa)** —— Repository with 450+ DSA problems covering all major patterns like arrays, DP, graphs, trees, and more. Includes clean, optimized solutions focused on pattern-based learning for coding interviews and problem-solving.
   - [PR #731](https://github.com/mohitkumhar/450-dsa/pull/731)：Fix: Docker healthcheck, leaderboard CTA, C-Score, sync validation, and registration
 
