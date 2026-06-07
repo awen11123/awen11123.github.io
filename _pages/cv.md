@@ -16,13 +16,42 @@ redirect_from:
 
 ## 技能
 
-- **编程语言：** Python、TypeScript
+- **编程语言：** Python、TypeScript、Swift
 - **后端：** FastAPI
-- **工具：** Git、GitHub、Docker、Bun
-- **AI/LLM：** OpenAI 兼容 API 使用经验
+- **工具链：** Git、GitHub Actions、Docker、Bun
+- **AI / LLM：** OpenAI 兼容 API、Claude Agent SDK 使用经验
+- **平台：** macOS 应用开发（SwiftUI / AppKit）
+
+## 个人项目
+
+- **[usage-pet](https://github.com/awen11123/usage-pet)** —— macOS 桌面像素宠物，实时显示 Claude / Codex 用量额度（Swift）
+- **[awen11123.github.io](https://github.com/awen11123/awen11123.github.io)** —— 本站，基于 Jekyll + academicpages 定制
 
 ## 开源贡献
 
-- [business-ai-agent](https://github.com/mohitkumhar/business-ai-agent) 项目贡献者
-  - 修复 `api_top_products` 排序逻辑（[PR #756](https://github.com/mohitkumhar/business-ai-agent/pull/756)）
-  - 修复 `api_health_scores` 标签重复问题（[PR #86](https://github.com/mohitkumhar/business-ai-agent/issues/86)）
+<!-- CONTRIBUTIONS:START -->
+
+_最近更新：2026-06-07_
+
+- **[NianJiuZst/openmeta-cli](https://github.com/NianJiuZst/openmeta-cli)** —— OpenMeta CLI - Autonomous, local-first open source contribution agent for developers
+  - [PR #51](https://github.com/NianJiuZst/openmeta-cli/pull/51)：docs: add OpenMeta contributor community to README
+  - [PR #49](https://github.com/NianJiuZst/openmeta-cli/pull/49)：fix(agent): use post-fetch star filter and improve result diversity
+  - [PR #48](https://github.com/NianJiuZst/openmeta-cli/pull/48)：feat(agent): improve issue discovery quality and diversity
+
+- **[mohitkumhar/business-ai-agent](https://github.com/mohitkumhar/business-ai-agent)** —— (无描述)
+  - [PR #756](https://github.com/mohitkumhar/business-ai-agent/pull/756)：Fix: Rank top products by business value instead of stock count in api_top_products
+  - [PR #758](https://github.com/mohitkumhar/business-ai-agent/pull/758)：Fix: Return health score history with date labels instead of duplicat…
+
+- **[Zbl1007/Creapiece](https://github.com/Zbl1007/Creapiece)** —— (无描述)
+  - [PR #2](https://github.com/Zbl1007/Creapiece/pull/2)：fix: code quality improvements across backend and Docker config
+
+- **[mohitkumhar/450-dsa](https://github.com/mohitkumhar/450-dsa)** —— Repository with 450+ DSA problems covering all major patterns like arrays, DP, graphs, trees, and more. Includes clean, optimized solutions focused on pattern-based learning for coding interviews and problem-solving.
+  - [PR #731](https://github.com/mohitkumhar/450-dsa/pull/731)：Fix: Docker healthcheck, leaderboard CTA, C-Score, sync validation, and registration
+
+<!-- CONTRIBUTIONS:END -->
+
+## 联系方式
+
+- **GitHub：** [@awen11123](https://github.com/awen11123)
+- **邮箱：** [444014092@qq.com](mailto:444014092@qq.com)
+- **Google Scholar：** [profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)

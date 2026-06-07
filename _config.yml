@@ -23,10 +23,10 @@ author:
   avatar           : "profile.png"
   name             : "张浩文"
   pronouns         : # 可添加如："他/他"
-  bio              : "yeah，i'm ok"
+  bio              : "计算机技术研究生 · 喜欢做有用的小工具 · 开源贡献者"
   location         : "北京，中国"
   employer         : "中国科学院大学"
-  uri              : # 可添加个人网站URL
+  uri              : "https://awen11123.github.io"
   email            : "444014092@qq.com"
 
   # Academic websites
