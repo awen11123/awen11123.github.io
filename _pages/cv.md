@@ -31,12 +31,16 @@ redirect_from:
 
 <!-- CONTRIBUTIONS:START -->
 
-_最近更新：2026-06-09_
+_最近更新：2026-06-10_
 
 - **[NianJiuZst/openmeta-cli](https://github.com/NianJiuZst/openmeta-cli)** —— OpenMeta CLI - Autonomous, local-first open source contribution agent for developers
   - [PR #51](https://github.com/NianJiuZst/openmeta-cli/pull/51)：docs: add OpenMeta contributor community to README
   - [PR #49](https://github.com/NianJiuZst/openmeta-cli/pull/49)：fix(agent): use post-fetch star filter and improve result diversity
   - [PR #48](https://github.com/NianJiuZst/openmeta-cli/pull/48)：feat(agent): improve issue discovery quality and diversity
+
+- **[kg4sci/SLC-Bench](https://github.com/kg4sci/SLC-Bench)** —— (无描述)
+  - [PR #2](https://github.com/kg4sci/SLC-Bench/pull/2)：Refactor/big
+  - [PR #1](https://github.com/kg4sci/SLC-Bench/pull/1)：chore: 固化重构结构并应用初步优化 (A2/B2/C1)
 
 - **[mohitkumhar/business-ai-agent](https://github.com/mohitkumhar/business-ai-agent)** —— (无描述)
   - [PR #756](https://github.com/mohitkumhar/business-ai-agent/pull/756)：Fix: Rank top products by business value instead of stock count in api_top_products
