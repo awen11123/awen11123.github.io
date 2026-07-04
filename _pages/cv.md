@@ -31,7 +31,7 @@ redirect_from:
 
 <!-- CONTRIBUTIONS:START -->
 
-_最近更新：2026-07-03_
+_最近更新：2026-07-04_
 
 - **[NianJiuZst/openmeta-cli](https://github.com/NianJiuZst/openmeta-cli)** —— OpenMeta CLI - Autonomous, local-first open source contribution agent for developers
   - [PR #51](https://github.com/NianJiuZst/openmeta-cli/pull/51)：docs: add OpenMeta contributor community to README
@@ -44,6 +44,9 @@ _最近更新：2026-07-03_
 
 - **[Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)** —— Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
   - [PR #460](https://github.com/Vexa-ai/vexa/pull/460)：fix: distinguish Google Meet lobby timeout from explicit host denial
+
+- **[zxyasfas/paper_format_agent](https://github.com/zxyasfas/paper_format_agent)** —— DOCX formatter for academic papers with a content-fingerprint guard: proves your text is never altered, only the formatting. Also installable as an agent skill.
+  - [PR #19](https://github.com/zxyasfas/paper_format_agent/pull/19)：fix: expand Chinese label detection for common thesis variants (#4)
 
 - **[ray-project/ray](https://github.com/ray-project/ray)** —— Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
   - [PR #63872](https://github.com/ray-project/ray/pull/63872)：[air] Fix missing comma in DataBatchType Union type
