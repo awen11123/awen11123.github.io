@@ -15,7 +15,7 @@ redirect_from:
 
 ### ✨ 最新项目
 
-[**usage-pet**](https://github.com/awen11123/usage-pet) —— macOS 桌面像素宠物，实时显示 Claude / Codex 用量额度。一只浮在桌面右下角的小猫，告诉你今天还能聊多少。
+[**usage-pet**](https://github.com/awen11123/usage-pet) —— macOS 桌面像素宠物，实时显示 AI 用量额度。除了 Claude 和 Codex，还支持各类中转 API（one-api / new-api / OpenRouter / DeepSeek 等）的余额查询；桌面宠物之外，也提供菜单栏常驻用量% 和 `usagepet` 命令行工具，可用 Homebrew 一键安装。
 
 ### 🛠 技术栈
 
