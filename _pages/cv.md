@@ -31,7 +31,7 @@ redirect_from:
 
 <!-- CONTRIBUTIONS:START -->
 
-_最近更新：2026-08-19_
+_最近更新：2026-08-20_
 
 - **[NianJiuZst/openmeta-cli](https://github.com/NianJiuZst/openmeta-cli)** —— OpenMeta CLI - Autonomous, local-first open source contribution agent for developers
   - [PR #51](https://github.com/NianJiuZst/openmeta-cli/pull/51)：docs: add OpenMeta contributor community to README
@@ -41,6 +41,9 @@ _最近更新：2026-08-19_
 - **[mohitkumhar/business-ai-agent](https://github.com/mohitkumhar/business-ai-agent)** —— (无描述)
   - [PR #756](https://github.com/mohitkumhar/business-ai-agent/pull/756)：Fix: Rank top products by business value instead of stock count in api_top_products
   - [PR #758](https://github.com/mohitkumhar/business-ai-agent/pull/758)：Fix: Return health score history with date labels instead of duplicat…
+
+- **[galaxyproject/training-material](https://github.com/galaxyproject/training-material)** —— A collection of Galaxy-related training material
+  - [PR #6955](https://github.com/galaxyproject/training-material/pull/6955)：docs: add video caption contribution guide to accessibility page
 
 - **[Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)** —— Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
   - [PR #460](https://github.com/Vexa-ai/vexa/pull/460)：fix: distinguish Google Meet lobby timeout from explicit host denial
