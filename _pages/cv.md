@@ -31,7 +31,7 @@ redirect_from:
 
 <!-- CONTRIBUTIONS:START -->
 
-_最近更新：2026-09-06_
+_最近更新：2026-09-07_
 
 - **[NianJiuZst/openmeta-cli](https://github.com/NianJiuZst/openmeta-cli)** —— OpenMeta CLI - Autonomous, local-first open source contribution agent for developers
   - [PR #51](https://github.com/NianJiuZst/openmeta-cli/pull/51)：docs: add OpenMeta contributor community to README
@@ -44,6 +44,9 @@ _最近更新：2026-09-06_
 
 - **[packit/packit](https://github.com/packit/packit)** —— Upstream project ← → Downstream distribution
   - [PR #2752](https://github.com/packit/packit/pull/2752)：Add JSON Schema generation for package config using marshmallow-jsonschema
+
+- **[autokey/autokey](https://github.com/autokey/autokey)** —— AutoKey, a desktop automation utility for Linux and X11.
+  - [PR #1165](https://github.com/autokey/autokey/pull/1165)：fix: show instructions and disable OK until abbreviation is finalized in GTK dialog
 
 - **[galaxyproject/training-material](https://github.com/galaxyproject/training-material)** —— A collection of Galaxy-related training material
   - [PR #6955](https://github.com/galaxyproject/training-material/pull/6955)：docs: add video caption contribution guide to accessibility page
